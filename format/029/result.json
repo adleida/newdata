@@ -1,0 +1,7 @@
+{
+    "is_test":0,
+    "adm":[],
+    "error":{
+        "detail": "json syntax error('device_id' is a required property)"
+    }
+}

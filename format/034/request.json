@@ -1,0 +1,33 @@
+{
+  "user_id": "554ad58fd25b4817ccf7b51e",
+  "cur": "CNY",
+  "is_test": 1,
+  "device": {
+    "device_id_enc": 1,
+    "network_id": 0,
+    "brand": "Gaylord",
+    "resolution_w": 9932,
+    "os_version": "4.4.4",
+    "resolution_h": 1833,
+    "device_type": 2,
+    "model": "Talia",
+    "os": "ANDROID",
+    "delected_language": "ru_BB",
+    "device_id": "00d377dfc383fd02647796c0dbd92266"
+  },
+  "adunit": {
+    "cid": "1261",
+    "type": 1,
+    "param": {
+      "count": 1
+    },
+    "floor": 1.6
+  },
+  "geo": {
+    "latitude": 58.48015502884841,
+    "country": "Ecuador",
+    "longtitude": 38.23122095857038,
+    "city": "Framibury"
+  },
+  "sdk": "bangbang"
+}

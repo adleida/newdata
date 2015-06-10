@@ -1,0 +1,33 @@
+{
+    "adunit":{
+        "type": 1,
+        "floor": 2,
+        "cid": "992135",
+        "param":{
+            "count": 2
+        }
+    },
+    "device":{
+        "os": "ANDROID",
+        "os_version": "4.2",
+        "resolution_w": 1920,
+	    "resolution_h": 1080,
+        "network_id": 0,
+        "device_type": 2,
+        "device_id": "a0082a7c-f39f-11e4-b813-07d290efea61",
+        "delected_language": "zh_CN",
+        "brand": "meizu",
+        "model": "魅蓝Note移动版"
+    },
+    "geo":{
+        "country": "中国",
+        "city": "黄鹤市",
+        "latitude": 22.2,
+        "longtitude": 179.0
+    },
+    "user_id": "bangbang23",
+    "is_test": 0,
+    "cur": "CNY",
+    "sdk": "bangbang"
+}
+

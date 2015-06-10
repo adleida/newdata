@@ -1,0 +1,45 @@
+{
+  "is_test": 0,
+  "adm": [
+    {
+      "id": "55541a20ecca2241673041cc",
+      "data": {},
+      "click_through_url": [
+        "http://www.ipinyou.com.cn/through/"
+      ],
+      "tracking_url": [
+        "http://www.ipinyou.com.cn/tracking/"
+      ]
+    },
+    {
+      "id": "55541a20ecca2241673041c9",
+      "data": {},
+      "click_through_url": [
+        "http://www.ipinyou.com.cn/through/"
+      ],
+      "tracking_url": [
+        "http://www.ipinyou.com.cn/tracking/"
+      ]
+    },
+    {
+      "id": "55541a20ecca2241673041d8",
+      "data": {},
+      "click_through_url": [
+        "http://www.ss.com.cn/through/"
+      ],
+      "tracking_url": [
+        "http://www.ipinyou.com.cn/tracking/"
+      ]
+    },
+    {
+      "id": "55541a20ecca2241673041db",
+      "data":{},
+      "click_through_url": [
+        "http://www.ss.com.cn/through/"
+      ],
+      "tracking_url": [
+        "http://www.ipinyou.com.cn/tracking/"
+      ]
+    }
+  ]
+}

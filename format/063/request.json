@@ -1,0 +1,33 @@
+{
+  "user_id": "554c3cd4d25b481fbb65336c", 
+  "cur": "CNY", 
+  "is_test": 1, 
+  "device": {
+    "device_id_enc": 2, 
+    "network_id": 70120, 
+    "brand": 123,
+    "resolution_w": 8692, 
+    "os_version": "4.2.3", 
+    "resolution_h": 5040, 
+    "device_type": 5, 
+    "model": "Rogers", 
+    "os": "ANDROID", 
+    "delected_language": "en_PA", 
+    "device_id": "5f3665578f4586172b5b73acfdbb8f0e"
+  }, 
+  "adunit": {
+    "cid": "7807", 
+    "type": 1, 
+    "param": {
+      "count": 2
+    }, 
+    "floor": 1.2
+  }, 
+  "geo": {
+    "latitude": 9.723031340918359, 
+    "country": "Rwanda", 
+    "longtitude": 38.248809389938884, 
+    "city": "New Destineechester"
+  }, 
+  "sdk": "bangbang"
+}

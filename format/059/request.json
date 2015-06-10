@@ -1,0 +1,32 @@
+{
+  "user_id": "554c2bfdd25b48177545bb34", 
+  "cur": "CNY", 
+  "is_test": 0, 
+  "device": {
+    "device_id_enc": 2, 
+    "network_id": 70123, 
+    "brand": "Bailey", 
+    "resolution_w": 2902, 
+    "os_version": "4.2", 
+    "resolution_h": 3150, 
+    "device_type": 3, 
+    "model": "Madeline", 
+    "os": "IOS", 
+    "delected_language": "el_TR", 
+    "device_id": "b0ef012f6a0f8b9c9af7943bbb5d75c2"
+  }, 
+  "adunit": {
+    "cid": "3837", 
+    "type": 1, 
+    "param": {
+    },
+    "floor": 1.2
+  }, 
+  "geo": {
+    "latitude": 19.51451541879315, 
+    "country": "Mongolia", 
+    "longtitude": 60.89285847164992, 
+    "city": "Glennischester"
+  }, 
+  "sdk": "bangbang"
+}

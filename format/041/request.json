@@ -1,0 +1,32 @@
+{
+  "user_id": "554b464dd25b484919ae2e66", 
+  "cur": "CNY", 
+  "is_test": 1, 
+  "device": {
+    "device_id_enc": 1, 
+    "network_id": 70120, 
+    "brand": "Goyette", 
+    "resolution_w": 2577, 
+    "os_version": "4.4.4", 
+    "resolution_h": 8910, 
+    "device_type": 4, 
+    "model": "Elana", 
+    "os": "ANDROID", 
+    "delected_language": "es_DO", 
+    "device_id": "4bbacb617c9b1f5bc2fbfeee8b62f1b7"
+  }, 
+  "adunit": {
+    "cid": "4757", 
+    "type": 1, 
+    "param": {
+      "count": 3
+    }, 
+    "floor": 1.7
+  }, 
+  "geo": {
+    "latitude": 89.88960927279264, 
+    "country": "Myanmar", 
+    "longtitude": 74.11673734466999, 
+    "city": "Karonhaven"
+  }
+}

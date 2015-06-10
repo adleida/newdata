@@ -1,0 +1,33 @@
+{
+  "user_id": "554ae3e9d25b481f0d0e6e60",
+  "cur": "CNY",
+  "is_test": 1,
+  "device": {
+    "device_id_enc": 2,
+    "network_id": 70121,
+    "brand": "Wilderman",
+    "resolution_w": 3153,
+    "os_version": "4.2",
+    "resolution_h": 4245,
+    "device_type": 1,
+    "model": "Hettie",
+    "os": "ANDROID",
+    "delected_language": "ru_LB",
+    "device_id": "c22f592e0bf9e84482b12457802d1793"
+  },
+  "adunit": {
+    "cid": "7208",
+    "type": 1,
+    "param": {
+      "count": 1
+    },
+    "floor": 1.5
+  },
+  "geo": {
+    "latitude": 0.25668361285502206,
+    "country": "Mozambique",
+    "longtitude": 137.55945917588812,
+    "city": "Quigleystad"
+  },
+  "sdk": "bangbang"
+}

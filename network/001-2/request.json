@@ -1,0 +1,34 @@
+{
+    "adunit": {
+        "id": 0,
+        "type": 1,
+        "floor": 2,
+        "cid": "csazxs",
+        "param": {
+            "count": 3
+        }
+    },
+    "device": {
+        "os": "ANDROID",
+        "os_version": "5.0",
+        "resolution_w": 555,
+        "resolution_h": 245,
+        "network_id": 70121,
+        "device_type": 2,
+        "device_id": "c1ec3b6e-f30a-11e4-b5f3-bb10469ed7b8",
+        "device_id_enc": 1,
+        "delected_language": "zh_CN",
+        "brand": "huawei",
+        "model": "t123"
+    },
+    "geo": {
+        "country": "中国",
+        "city": "秀芳市",
+        "latitude": 631066,
+        "longtitude": 155552
+    },
+    "user_id": "user_1",
+    "is_test": 1,
+    "cur":"CNY",
+    "sdk": "bangbang"
+}

@@ -1,0 +1,33 @@
+{
+  "user_id": "554c249ed25b481316360512", 
+  "cur": "CNY", 
+  "is_test": 0, 
+  "device": {
+    "device_id_enc": 1, 
+    "network_id": 0, 
+    "brand": "Emard", 
+    "resolution_w": 3555, 
+    "os_version": "4.2", 
+    "resolution_h": 1337, 
+    "device_type": 3, 
+    "model": "Artie", 
+    "os": "IOS", 
+    "delected_language": "ru_KZ", 
+    "device_id": "d4540081103a0e03888a6eac69d03bc6"
+  }, 
+  "adunit": {
+    "cid": "3146", 
+    "type": "1",
+    "param": {
+      "count": 2
+    }, 
+    "floor": 1.2
+  }, 
+  "geo": {
+    "latitude": 88.97925956497318, 
+    "country": "Netherlands Antilles", 
+    "longtitude": 91.77570164475257, 
+    "city": "Feilhaven"
+  }, 
+  "sdk": "bangbang"
+}

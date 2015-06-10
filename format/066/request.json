@@ -1,0 +1,32 @@
+{
+  "user_id": "554b4bcfd25b484c86948122",
+  "is_test": 1,
+  "device": {
+    "device_id_enc": 1,
+    "network_id": 70123,
+    "brand": "Veum",
+    "resolution_w": 6019,
+    "os_version": "4.1.1",
+    "resolution_h": 7124,
+    "device_type": 4,
+    "model": "Dempsey",
+    "os": "ANDROID",
+    "delected_language": "en_BS",
+    "device_id": "4f623e56d59e218471843af1415ba949"
+  },
+  "adunit": {
+    "cid": "1207",
+    "type": 1,
+    "param": {
+      "count": 3
+    },
+    "floor": 1.2
+  },
+  "geo": {
+    "latitude": 52.013885097269025,
+    "country": "Equatorial Guinea",
+    "longtitude": 22.468619863394505,
+    "city": "West Cieloburgh"
+  },
+  "sdk": "bangbang"
+}

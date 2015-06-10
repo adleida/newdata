@@ -1,0 +1,93 @@
+# PAXP Config
+bind: 0.0.0.0:5000
+timeout: 0.5
+
+resources:
+  dsp: http://dsp:6001/dsp/v2
+  adm: http://adm:8008/v1/adm/
+
+logging:
+  formatters:
+    default:
+      format: '%(asctime)s [%(levelname)s] %(name)s: %(message)s'
+      datefmt: '%FT%T'
+  handlers:
+    console:
+      class: logging.StreamHandler
+      formatter: default
+      level: DEBUG
+    file:
+      class: logging.handlers.RotatingFileHandler
+      formatter: default
+      level: DEBUG
+      filename: paxp.log
+      maxBytes: 1000000
+      backupCount: 3
+  loggers:
+    requests:
+      level: ERROR
+    werkzeug:
+      level: DEBUG
+  root:
+      handlers: [console, file]
+      level: DEBUG
+
+# Client Config
+req_file: request.json
+
+req_headers:
+    Content-Type: application/json
+    User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:37.0) Gecko/20100101 Firefox/37.0
+
+result: result.json
+
+# DSP config
+dsp:
+    s:
+    - id: "110"
+      name: 品友
+      burl: http://dsp:6001/res/v2/110
+      res_file: response.json
+      notice_file: notice.json
+      is_res: true
+
+
+    tsleep: 5
+
+    info:
+      host: 0.0.0.0
+      port: 6001
+
+    adms:
+
+    - id: c111001
+      type: 1
+      did: '110'
+      data:
+        img: http://exchange/11001
+        text: app1 is very good
+tkit_log:
+  formatters:
+    default:
+      format: '%(asctime)s [%(levelname)s] %(name)s: %(message)s'
+      datefmt: '%FT%T'
+  handlers:
+    console:
+      class: logging.StreamHandler
+      formatter: default
+      level: DEBUG
+    file:
+      class: logging.FileHandler
+      formatter: default
+      level: DEBUG
+      filename: tkit.log
+  loggers:
+    requests:
+      level: INFO
+    werkzeug:
+      level: DEBUG
+    sh:
+      level: ERROR
+  root:
+      handlers: [console, file]
+      level: INFO

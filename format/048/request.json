@@ -1,0 +1,32 @@
+{
+  "user_id": "554b4dbed25b484dff2a9e53",
+  "cur": "CNY",
+  "is_test": 1,
+  "device": {
+    "device_id_enc": 1,
+    "network_id": 70123,
+    "brand": "Bins",
+    "resolution_w": 8092,
+    "os_version": "4.4.4",
+    "resolution_h": 3383,
+    "device_type": 1,
+    "model": "Shelley",
+    "os": "IOS",
+    "delected_language": "cn_GN",
+    "device_id": "670fbf92a58099f062a125c6556b7c11"
+  },
+  "adunit": {
+    "cid": "5923",
+    "type": 1,
+    "param": {
+    },
+    "floor": 1.3
+  },
+  "geo": {
+    "latitude": 14.350423807691365,
+    "country": "Grenada",
+    "longtitude": 2.1786718434230345,
+    "city": "Michelburgh"
+  },
+  "sdk": "bangbang"
+}

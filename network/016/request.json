@@ -1,0 +1,34 @@
+{
+    "adunit": {
+        "id": 0,
+        "type": 1,
+        "floor": 2,
+        "cid": "124534",
+        "param": {
+            "count": 1
+        }
+    },
+    "device": {
+        "os": "ANDROID",
+        "os_version": "4.4.3",
+        "resolution_w": 160,
+        "resolution_h": 240,
+        "network_id": 70120,
+        "device_type": 2,
+        "device_id": "0422d634-f309-11e4-9e88-2bee3edca669",
+        "device_id_enc": 1,
+        "delected_language": "zh_CN",
+        "brand": "htc",
+        "model": "s11"
+    },
+    "geo": {
+        "country": "中国",
+        "city": "桂芝市",
+        "latitude": 12312,
+        "longtitude": 231321
+    },
+    "user_id": "q213",
+    "is_test": 1,
+    "cur":"CNY",
+    "sdk": "bangbang"
+}

@@ -1,0 +1,33 @@
+{
+  "user_id": "554b15ccd25b4830ab4585df",
+  "cur": "CNY",
+  "is_test": 1,
+  "device": {
+    "device_id_enc": 1,
+    "network_id": 70121,
+    "brand": "Jaskolski",
+    "resolution_w": 9256,
+    "os_version": "4.1.1",
+    "resolution_h": 1775,
+    "device_type": 3,
+    "model": "Arlo",
+    "os": "ANDROID",
+    "delected_language": "pt_SV",
+    "device_id": "a52b9991f46533ff29525d81109847e1"
+  },
+  "adunit": {
+    "cid": "7524",
+    "type": 1,
+    "param": {
+      "count": 3
+    },
+    "floor": 1.5
+  },
+  "geo": {
+    "latitude": 81.09739021879858,
+    "country": "Serbia",
+    "longtitude": 51.24451897447905,
+    "city": "Danechester"
+  },
+  "sdk": "bangbang"
+}

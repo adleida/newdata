@@ -1,0 +1,26 @@
+{
+  "adm": [
+    {
+      "id": "55541a20ecca2241673041d8",
+      "price": 3.2,
+      "click_through_url": [
+        "http://www.ipinyou.com.cn/click_through_url"
+      ],
+      "tracking_url": [
+        "http://www.ipinyou.com.cn/tracking/"
+      ]
+    },
+    {
+      "id": "55541a20ecca2241673041de",
+      "price": 3.5,
+      "click_through_url": [
+        "http://www.ipinyou.com.cn/click_through_url"
+      ],
+      "tracking_url": [
+        "http://www.ipinyou.com.cn/tracking/"
+      ]
+    }
+  ],
+  "did": "112",
+  "is_test": 1
+}

@@ -1,0 +1,33 @@
+{
+  "user_id": "554b17d4d25b4832029769bf",
+  "cur": "CNY",
+  "is_test": 0,
+  "device": {
+    "device_id_enc": 1,
+    "network_id": 70121,
+    "brand": "Grimes",
+    "resolution_w": 5798,
+    "os_version": "5.0",
+    "resolution_h": 5298,
+    "device_type": 1,
+    "model": "Maryjane",
+    "os": "ANDROID",
+    "delected_language": "fr_NA",
+    "device_id": "7f69f1b43aa7718752f1ecb7ed4f22d6"
+  },
+  "adunit": {
+    "cid": "4258",
+    "type": 1,
+    "param": {
+      "count": 3
+    },
+    "floor": 1.7
+  },
+  "geo": {
+    "latitude": 18.85143367206964,
+    "country": "Hong Kong",
+    "longtitude": 10.864142342777793,
+    "city": "Toryborough"
+  },
+  "sdk": "bangbang"
+}

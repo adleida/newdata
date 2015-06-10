@@ -1,0 +1,33 @@
+{
+  "user_id": "556446ffd25b485207ed3a87",
+  "cur": "CNY",
+  "is_test": 0,
+  "device": {
+    "device_id_enc": 2,
+    "network_id": 70123,
+    "brand": "Price",
+    "resolution_w": 3603,
+    "os_version": "4.4.4",
+    "resolution_h": 7210,
+    "device_type": 3,
+    "model": "Chana",
+    "os": "ANDROID",
+    "delected_language": "cn_BF",
+    "device_id": "01fdb547e85cc6e43e83aad7040c511c"
+  },
+  "adunit": {
+    "cid": "5036",
+    "type": 1,
+    "param": {
+      "count": 2
+    },
+    "floor": 1.2
+  },
+  "geo": {
+    "latitude": 52.758309129300144,
+    "country": "Ethiopia",
+    "longitude": 1.1783801084965018,
+    "city": "Boganside"
+  },
+  "sdk": "bangbang"
+}

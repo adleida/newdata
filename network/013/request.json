@@ -1,0 +1,33 @@
+{
+  "user_id": "5565a716d25b480c56fccd70",
+  "cur": "CNY",
+  "is_test": 1,
+  "device": {
+    "device_id_enc": 2,
+    "network_id": 70120,
+    "brand": "Nienow",
+    "resolution_w": 1732,
+    "os_version": "4.2",
+    "resolution_h": 5189,
+    "device_type": 5,
+    "model": "Fay",
+    "os": "IOS",
+    "delected_language": "el_TT",
+    "device_id": "d0a972a6aabcc46e308d4565b74c04a0"
+  },
+  "adunit": {
+    "cid": "2851",
+    "type": 1,
+    "param": {
+      "count": 2
+    },
+    "floor": 1.3
+  },
+  "geo": {
+    "latitude": 62.63449920899207,
+    "country": "Kyrgyz Republic",
+    "longitude": 174.6357193391743,
+    "city": "New Elena"
+  },
+  "sdk": "bangbang"
+}

@@ -1,0 +1,17 @@
+{
+    "is_test": 0,
+    "adm": [
+        {
+            "data": {
+                
+            },
+            "id": "55541a20ecca2241673041c9",
+            "click_through_url":[
+                 "http://www.ipinyou.com.cn/through/"
+            ],
+            "tracking_url": [
+                "http://www.ipinyou.com.cn/tracking/"
+            ]
+        }
+    ]
+}

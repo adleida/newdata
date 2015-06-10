@@ -1,0 +1,27 @@
+{
+  "user_id": "554b46a9d25b484960e9f76c", 
+  "cur": "CNY", 
+  "is_test": 1, 
+  "device": {
+    "device_id_enc": 1, 
+    "network_id": 0, 
+    "brand": "Hauck", 
+    "resolution_w": 2491, 
+    "os_version": "4.2.3", 
+    "resolution_h": 7062, 
+    "device_type": 5, 
+    "model": "Lexie", 
+    "os": "IOS", 
+    "delected_language": "en_AO", 
+    "device_id": "e2009538e4c2f8be89ea52662198c58d"
+  }, 
+  "adunit": {
+    "cid": "5438", 
+    "type": 1, 
+    "param": {
+      "count": 2
+    }, 
+    "floor": 2.3
+  },
+  "sdk": "bangbang"
+}

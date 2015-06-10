@@ -1,0 +1,22 @@
+{
+  "user_id": "554b4565d25b4848796a5b61", 
+  "cur": "CNY", 
+  "is_test": 0, 
+  "device": {
+  }, 
+  "adunit": {
+    "cid": "302", 
+    "type": 1, 
+    "param": {
+      "count": 2
+    }, 
+    "floor": 2.0
+  }, 
+  "geo": {
+    "latitude": 10.167912325777904, 
+    "country": "Bosnia and Herzegovina", 
+    "longtitude": 13.61583827013861, 
+    "city": "Harleytown"
+  }, 
+  "sdk": "bangbang"
+}

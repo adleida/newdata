@@ -1,0 +1,33 @@
+{
+    "adunit":{
+        "type": 1,
+        "floor": 1.2,
+        "cid": "5696",
+        "param":{
+            "count": 3
+        }
+    },
+    "device":{
+        "os": "ANDROID",
+        "os_version": "4.4.2",
+        "resolution_w": 1920,
+	    "resolution_h": 1080,
+        "network_id": 70120,
+        "device_type": 2,
+        "device_id_enc": 1,
+        "delected_language": "zh_CN",
+        "brand": "huawei",
+        "model": "华为Mate 7"
+    },
+    "geo":{
+        "country": "中国",
+        "city": "凤兰市",
+        "latitude": 52.1,
+        "longtitude": 55.0
+    },
+    "user_id": "bangbang22113",
+    "is_test": 0,
+    "cur": "CNY",
+    "sdk": "bangbang"
+}
+

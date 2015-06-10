@@ -1,0 +1,25 @@
+{
+  "user_id": "554b43b4d25b4846f579674a",
+  "cur": "CNY",
+  "is_test": 1,
+  "device": {
+    "device_id_enc": 1,
+    "network_id": 0,
+    "brand": "Douglas",
+    "resolution_w": 3942,
+    "os_version": "4.4.4",
+    "resolution_h": 8658,
+    "device_type": 3,
+    "model": "Trevor",
+    "os": "IOS",
+    "delected_language": "de_AR",
+    "device_id": "b4147a518903a621fc5af244bf2b846b"
+  },
+  "geo": {
+    "latitude": 47.22702169463294,
+    "country": "Sao Tome and Principe",
+    "longtitude": 124.75014189466012,
+    "city": "West Ayaan"
+  },
+  "sdk": "bangbang"
+}

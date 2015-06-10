@@ -1,0 +1,33 @@
+{
+  "user_id": "554ac770d25b480bee2824ae",
+  "cur": "CNY",
+  "is_test": 1,
+  "device": {
+    "network_id": 70120,
+    "brand": "Feeney",
+    "resolution_w": 9805,
+    "os_version": "4.1.1",
+    "resolution_h": 3164,
+    "device_type": 4,
+    "device_id_enc": 1,
+    "model": "Giuliana",
+    "os": "ANDROID",
+    "delected_language": "es_AG",
+    "device_id": "3f5b4f3ebf28df2cbde7cc1748980185"
+  },
+  "adunit": {
+    "cid": "8390",
+    "type": 1,
+    "param": {
+      "count": 2
+    },
+    "floor": 2.3
+  },
+  "geo": {
+    "latitude": 27.31173999873662,
+    "country": "Thailand",
+    "longtitude": 93.85611692775718,
+    "city": "Lake Carmella"
+  },
+  "sdk": "bangbang"
+}

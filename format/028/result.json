@@ -1,0 +1,5 @@
+{
+    "error":{
+        "detail": "json syntax error('resolution_h' is a required property)"
+    }
+}

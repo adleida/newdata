@@ -1,0 +1,29 @@
+{
+  "user_id": "554b46fcd25b4849b957d235", 
+  "cur": "CNY", 
+  "is_test": 0, 
+  "device": {
+    "device_id_enc": 1, 
+    "network_id": 70121, 
+    "brand": "Schimmel", 
+    "resolution_w": 5880, 
+    "os_version": "5.0", 
+    "resolution_h": 3241, 
+    "device_type": 1, 
+    "model": "Susannah", 
+    "os": "ANDROID", 
+    "delected_language": "cn_AZ", 
+    "device_id": "84eb6087c3092a78da4d911bef102c4f"
+  }, 
+  "adunit": {
+    "cid": "7445", 
+    "type": 1, 
+    "param": {
+      "count": 2
+    }, 
+    "floor": 1.2
+  }, 
+  "geo": {
+  }, 
+  "sdk": "bangbang"
+}

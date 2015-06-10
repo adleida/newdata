@@ -1,0 +1,33 @@
+{
+  "user_id": "554b12f6d25b482eb09e7a7e",
+  "cur": "CNY",
+  "is_test": 0,
+  "device": {
+    "device_id_enc": 1,
+    "network_id": 70121,
+    "brand": "Schneider",
+    "resolution_w": 3823,
+    "os_version": "4.4.4",
+    "resolution_h": 5518,
+    "device_type": 3,
+    "model": "Scottie",
+    "os": "ANDROID",
+    "delected_language": "fr_ZA",
+    "device_id": "d86b1354bfbb8cee61b96577dba86e4e"
+  },
+  "adunit": {
+    "cid": "7836",
+    "type": 1,
+    "param": {
+      "count": 2
+    },
+    "floor": 1.2
+  },
+  "geo": {
+    "latitude": 70.08747964041262,
+    "country": "Jersey",
+    "longtitude": 23.848872348023395,
+    "city": "Kolbyton"
+  },
+  "sdk": "bangbang"
+}

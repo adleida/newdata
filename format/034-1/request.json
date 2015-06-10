@@ -1,0 +1,33 @@
+{
+  "user_id": "554b244ad25b48394498783f",
+  "cur": "CNY",
+  "is_test": 0,
+  "device": {
+    "device_id_enc": 1,
+    "network_id": 0,
+    "brand": "Dicki",
+    "resolution_w": 1870,
+    "os_version": "4.2",
+    "resolution_h": 4330,
+    "device_type": 2,
+    "model": "Waymon",
+    "os": "IOS",
+    "delected_language": "de_UA",
+    "device_id": "9142bc142d302e961367a799a998969d"
+  },
+  "adunit": {
+    "cid": "2242",
+    "type": 1,
+    "param": {
+      "count": 3
+    },
+    "floor": 1.5
+  },
+  "geo": {
+    "latitude": 42.868605857662274,
+    "country": "Vietnam",
+    "longtitude": 144.55419180427256,
+    "city": "East Shelbiville"
+  },
+  "sdk": "bangbang"
+}

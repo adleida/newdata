@@ -1,0 +1,32 @@
+{
+  "user_id": "554b45c6d25b4848c17a8e91", 
+  "cur": "CNY",
+  "device": {
+    "device_id_enc": 1, 
+    "network_id": 70120, 
+    "brand": "McGlynn", 
+    "resolution_w": 2916, 
+    "os_version": "4.2", 
+    "resolution_h": 2308, 
+    "device_type": 3, 
+    "model": "Ann", 
+    "os": "IOS", 
+    "delected_language": "de_ST", 
+    "device_id": "fa9c6ddf17bb909599352f267b49b155"
+  }, 
+  "adunit": {
+    "cid": "7705", 
+    "type": 1, 
+    "param": {
+      "count": 2
+    }, 
+    "floor": 1.7
+  }, 
+  "geo": {
+    "latitude": 39.10162592213038, 
+    "country": "Timor-Leste", 
+    "longtitude": 102.17474683784135, 
+    "city": "Lake Lullabury"
+  }, 
+  "sdk": "bangbang"
+}

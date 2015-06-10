@@ -1,0 +1,34 @@
+{
+    "adunit": {
+        "id": 0,
+        "type": 1,
+        "floor": 2.3,
+        "cid": "wqewqeqw",
+        "param": {
+            "count": 2
+        }
+    },
+    "device": {
+        "os": "IOS",
+        "os_version": "2.3",
+        "resolution_w": 768,
+        "resolution_h": 1024,
+        "network_id": 70123,
+        "device_type": 2,
+        "device_id": "8fb8a0fa-f30b-11e4-a615-c3258c1e724b",
+        "device_id_enc": 1,
+        "delected_language": "zh_CN",
+        "brand": "iphone",
+        "model": "5"
+    },
+    "geo": {
+        "country": "中国",
+        "city": "红霞市",
+        "latitude": 740170,
+        "longtitude": 123562
+    },
+    "user_id": "us2213",
+    "is_test": 1,
+    "cur":"CNY",
+    "sdk": "bangbang"
+}

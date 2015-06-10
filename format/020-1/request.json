@@ -1,0 +1,33 @@
+{
+  "user_id": "554b2617d25b483a61aae7f1",
+  "cur": "CNY",
+  "is_test": 0,
+  "device": {
+    "device_id_enc": 1,
+    "network_id": 70121,
+    "brand": "Corwin",
+    "resolution_w": 8196,
+    "os_version": "4.2.3",
+    "resolution_h": 4659,
+    "device_type": 3,
+    "model": "Paisley",
+    "os": "ANDROID",
+    "delected_language": "fr_NL",
+    "device_id": "6b0e53d9ce45db8c578eeb513123b195"
+  },
+  "adunit": {
+    "cid": "6972",
+    "type": 1,
+    "param": {
+      "count": 2
+    },
+    "floor": 1.7
+  },
+  "geo": {
+    "latitude": 0.9778974087676229,
+    "country": "United Kingdom",
+    "longtitude": 67.14727731135251,
+    "city": "Lake Warren"
+  },
+  "sdk": "bangbang"
+}

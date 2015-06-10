@@ -1,0 +1,33 @@
+{
+  "user_id": "554b3003d25b483ee729fae0", 
+  "cur": "CNY", 
+  "is_test": 1, 
+  "device": {
+    "device_id_enc": 1, 
+    "network_id": 0, 
+    "brand": "Miller", 
+    "resolution_w": 3520, 
+    "os_version": "4.1.1", 
+    "resolution_h": 9510, 
+    "device_type": 4, 
+    "model": "Orin", 
+    "os": "IOS", 
+    "delected_language": "de_MT", 
+    "device_id": "63ec55fb34d372499fa8d3f8dad67a34"
+  }, 
+  "adunit": {
+    "cid": "3194", 
+    "type": 1, 
+    "param": {
+      "count": 1
+    }, 
+    "floor": 2.3
+  }, 
+  "geo": {
+    "latitude": 12.557962447629423, 
+    "country": "Tuvalu", 
+    "longtitude": 157.94552270918606, 
+    "city": "Joettefort"
+  }, 
+  "sdk": "bangbang"
+}

@@ -1,0 +1,33 @@
+{
+  "user_id": "554c3538d25b481b8f99f602", 
+  "cur": "CNY", 
+  "is_test": 1, 
+  "device": {
+    "device_id_enc": 2, 
+    "network_id": 70121, 
+    "brand": "Baumbach", 
+    "resolution_w": 1093, 
+    "os_version": "5.0", 
+    "resolution_h": 6748, 
+    "device_type": 4, 
+    "model": "Lorrie", 
+    "os": 4,
+    "delected_language": "en_VA", 
+    "device_id": "78b6031bbc04cac8ce4520b357b2c7a5"
+  }, 
+  "adunit": {
+    "cid": "6555", 
+    "type": 1, 
+    "param": {
+      "count": 3
+    }, 
+    "floor": 1.5
+  }, 
+  "geo": {
+    "latitude": 43.87022387588992, 
+    "country": "Haiti", 
+    "longtitude": 29.762405662887296, 
+    "city": "Cartwrightborough"
+  }, 
+  "sdk": "bangbang"
+}

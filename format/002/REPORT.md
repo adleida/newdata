@@ -1,0 +1,1 @@
+- sdk发送的client-request文件是不可解析的json文件

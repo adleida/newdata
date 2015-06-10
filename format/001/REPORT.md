@@ -1,0 +1,4 @@
+- sdk发送的client-request文件中没有adunit对象
+- 过程记录
+- Compaire result Failed~_~
+- result返回结果不可比对

@@ -1,0 +1,32 @@
+{
+  "user_id": "554c23eed25b48127558f3ec", 
+  "cur": "CNY", 
+  "is_test": 0, 
+  "device": {
+    "device_id_enc": 1, 
+    "network_id": 70123, 
+    "brand": "Schaden", 
+    "resolution_w": 636, 
+    "os_version": "5.0", 
+    "resolution_h": 9987, 
+    "device_type": 2, 
+    "model": "Derrek", 
+    "os": "ANDROID", 
+    "delected_language": "ru_FJ"
+  }, 
+  "adunit": {
+    "cid": "143", 
+    "type": 1, 
+    "param": {
+      "count": 2
+    }, 
+    "floor": 1.5
+  }, 
+  "geo": {
+    "latitude": 29.888780527405636, 
+    "country": "French Polynesia", 
+    "longtitude": 39.39295971319948, 
+    "city": "Morarchester"
+  }, 
+  "sdk": "bangbang"
+}

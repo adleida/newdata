@@ -1,0 +1,8 @@
+{
+  "adm": [],
+  "is_test": 0,
+  "error": {
+    "code": 1,
+    "detail": "json syntax error('user_id' is a required property)"
+  }
+}

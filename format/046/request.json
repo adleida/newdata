@@ -1,0 +1,32 @@
+{
+  "user_id": "554b4d12d25b484d7480528e", 
+  "cur": "CNY", 
+  "is_test": 0, 
+  "device": {
+    "device_id_enc": 2, 
+    "network_id": 0, 
+    "brand": "Conroy", 
+    "resolution_w": 6537, 
+    "os_version": "5.0", 
+    "resolution_h": 6456, 
+    "device_type": 3, 
+    "model": "Michaela", 
+    "os": "ANDROID", 
+    "delected_language": "fr_KW", 
+    "device_id": "0d6771020970287ecb0ee9af6aafa926"
+  }, 
+  "adunit": {
+    "cid": "7994", 
+    "type": 1, 
+    "param": {
+      "count": 1
+    }
+  }, 
+  "geo": {
+    "latitude": 60.277921676974316, 
+    "country": "Bouvet Island (Bouvetoya)", 
+    "longtitude": 56.918786548771635, 
+    "city": "Braunhaven"
+  }, 
+  "sdk": "bangbang"
+}

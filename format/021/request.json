@@ -1,0 +1,20 @@
+{
+    "adunit": {
+        "type": 1,
+        "cid":"21020102",
+        "floor": 1.6,
+        "param": {
+            "count": 3
+        }
+    },
+    "geo": {
+        "country": "中国",
+        "city": "北京",
+        "latitude": 102.153585,
+        "longtitude": 10.5544
+    },
+    "is_test": 1,
+    "user_id":"bb201501201",
+    "cur":"CNY",
+    "sdk": "bangbang"
+}

@@ -1,0 +1,33 @@
+{
+  "user_id": "554b2206d25b4837ae2a2aae",
+  "cur": "CNY",
+  "is_test": 0,
+  "device": {
+    "device_id_enc": 1,
+    "network_id": 70120,
+    "brand": "Schuster",
+    "resolution_w": 9761,
+    "os_version": "4.2",
+    "resolution_h": 7269,
+    "device_type": 2,
+    "model": "Shantel",
+    "os": "IOS",
+    "delected_language": "it_WS",
+    "device_id": "5712b1d0e74361615a3f1cecd533e538"
+  },
+  "adunit": {
+    "cid": "4220",
+    "type": 1,
+    "param": {
+      "count": 3
+    },
+    "floor": 1.5
+  },
+  "geo": {
+    "latitude": 37.94933424085739,
+    "country": "Turks and Caicos Islands",
+    "longtitude": 6.7572694951741985,
+    "city": "New Hillarytown"
+  },
+  "sdk": "bangbang"
+}

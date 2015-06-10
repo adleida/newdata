@@ -1,0 +1,32 @@
+{
+  "user_id": "554b4e07d25b484e46186424", 
+  "cur": "CNY", 
+  "is_test": 0, 
+  "device": {
+    "device_id_enc": 2, 
+    "network_id": 70121, 
+    "brand": "Murphy", 
+    "resolution_w": 365, 
+    "os_version": "4.1.1", 
+    "resolution_h": 6615, 
+    "device_type": 3, 
+    "model": "Grant",
+    "delected_language": "en_HN", 
+    "device_id": "0a4d940651675f92d49c5ef42908a605"
+  }, 
+  "adunit": {
+    "cid": "6958", 
+    "type": 1, 
+    "param": {
+      "count": 1
+    }, 
+    "floor": 1.5
+  }, 
+  "geo": {
+    "latitude": 40.334857834279056, 
+    "country": "Estonia", 
+    "longtitude": 129.38832379555743, 
+    "city": "South Trudyside"
+  }, 
+  "sdk": "bangbang"
+}

@@ -1,0 +1,14 @@
+{
+    "adm": [
+        {
+            "id": "55541a20ecca2241673041db",
+        
+            "price": 1.8,
+            "click_through_url":["http://www.dd.com.cn/through/"],
+            "tracking_url": ["http://www.dd.com.cn/tracking/"]
+        }
+    ],
+    "did": "112",
+    "nurl": "http://dsp:6001/notice/v2/112",
+    "is_test": 1
+}

@@ -1,0 +1,27 @@
+{
+    "adunit": {
+        "type": 1,
+        "floor": 1.6,
+        "cid":"202453",
+        "param": {
+            "count": 3
+        }
+    },
+    "device": {
+        "os": "ANDROID",
+        "os_version": "4.4.4",
+        "resolution_w": 720,
+        "resolution_h": 1080,
+        "network_id": 70120,
+        "device_type": 2,
+        "device_id": "6C0590AFF652982CEB7B3F7D8214C508",
+        "device_id_enc": 1,
+        "delected_language": "zh_CN",
+        "brand": "xiaomi",
+        "model": "m2"
+    },
+    "is_test": 1,
+    "user_id":"bb2012012",
+    "cur":"CNY",
+    "sdk": "bangbang"
+}

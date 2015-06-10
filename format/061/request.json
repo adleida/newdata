@@ -1,0 +1,33 @@
+{
+  "user_id": "554c362cd25b481c09cda822", 
+  "cur": "CNY", 
+  "is_test": 1, 
+  "device": {
+    "device_id_enc": 2, 
+    "network_id": 0, 
+    "brand": "Bartoletti", 
+    "resolution_w": 8915, 
+    "os_version": 4,
+    "resolution_h": 8019, 
+    "device_type": 2, 
+    "model": "Jann", 
+    "os": "ANDROID",
+    "delected_language": "ru_DJ", 
+    "device_id": "6f18060f3033ecfe11520ca5e6134f64"
+  }, 
+  "adunit": {
+    "cid": "7635", 
+    "type": 1, 
+    "param": {
+      "count": 2
+    }, 
+    "floor": 1.5
+  }, 
+  "geo": {
+    "latitude": 18.53307677966009, 
+    "country": "Maldives", 
+    "longtitude": 22.61040836031816, 
+    "city": "Geebury"
+  }, 
+  "sdk": "bangbang"
+}

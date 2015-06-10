@@ -1,0 +1,34 @@
+{
+    "adunit":{
+        "type": 1,
+        "floor": 1.4,
+        "cid": "2134",
+        "param":{
+            "count": 1
+        }
+    },
+    "device":{
+        "os": "ANDROID",
+        "os_version": "4.4.4",
+        "resolution_w": 1280,
+	    "resolution_h": 720,
+        "network_id": 70120,
+        "device_type": 2,
+        "device_id": "40e7c1bc-f3a2-11e4-a688-0befa2618db4",
+        "device_id_enc": 1,
+        "delected_language": "zh_CN",
+        "brand": "huawei",
+        "model": "华为荣耀畅玩4X"
+    },
+    "geo":{
+        "country": "中国",
+        "city": "明市",
+        "latitude": 56.1,
+        "longtitude": 123.4
+    },
+    "user_id": "bangbang203",
+    "is_test": 0,
+    "cur": "CNY",
+    "sdk": "bangbang"
+}
+

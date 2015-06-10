@@ -1,0 +1,33 @@
+{
+  "user_id": "554b2cf1d25b483d4ac8dde4", 
+  "cur": "CNY", 
+  "is_test": 0, 
+  "device": {
+    "device_id_enc": 2, 
+    "network_id": 70123, 
+    "brand": "Senger", 
+    "resolution_w": 2553, 
+    "os_version": "4.1.1", 
+    "resolution_h": 4868, 
+    "device_type": 2, 
+    "model": "Norberto", 
+    "os": "IOS", 
+    "delected_language": "en_CL", 
+    "device_id": "8d5ee8f7f64f247fab3490b67f5a3efe"
+  }, 
+  "adunit": {
+    "cid": "6336", 
+    "type": 1, 
+    "param": {
+      "count": 1
+    }, 
+    "floor": 1.2
+  }, 
+  "geo": {
+    "latitude": 19.665729568362405, 
+    "country": "Libyan Arab Jamahiriya", 
+    "longtitude": 23.81672115091837, 
+    "city": "East Shanika"
+  }, 
+  "sdk": "bangbang"
+}

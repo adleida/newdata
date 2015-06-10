@@ -1,0 +1,34 @@
+{
+    "adunit":{
+        "type": 1,
+        "floor": 2.6,
+        "cid": "1102132",
+        "param":{
+            "count": 2
+        }
+    },
+    "device":{
+        "os": "IOS",
+        "os_version": "ios8",
+        "resolution_w": 1920,
+        "resolution_h": 1080,
+        "network_id": 70120,
+        "device_type": 3,
+        "device_id": "29d67d46-f330-11e4-b6a3-9f117d91d439",
+        "device_id_enc": 1,
+        "delected_language": "zh_CN",
+        "brand": "iphone",
+        "model": "苹果iPhone6 Plus"
+    },
+    "geo":{
+        "country": "中国",
+        "city": "秀华市",
+        "latitude": 52.2,
+        "longtitude": 42.1
+    },
+    "user_id": "bangbang201",
+    "is_test": 0,
+    "cur": "CNY",
+    "sdk": "bangbang"
+}
+

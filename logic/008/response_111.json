@@ -1,0 +1,28 @@
+{
+    "adm": [
+        {
+            "id": "11110010",
+          
+            "price": 1.3,
+            "click_through_url": [
+                "http://www.ipingyou.com.cn/through/"
+            ],
+            "tracking_url": [
+                "http://www.ipinyou.com.cn/tracking/"
+            ]
+        },
+        {
+            "id": "11110012",
+        
+            "price": 1.4,
+            "click_through_url": [
+                "http://www.ipingyou.com.cn/through/"
+            ],
+            "tracking_url": [
+                "http://www.ipinyou.com.cn/tracking/"
+            ]
+        }    ],
+    "did": "111",
+    "nurl": "http://dsp:6001/notice/v2/111",
+    "is_test": 0
+}

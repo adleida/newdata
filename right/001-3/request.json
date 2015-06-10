@@ -1,0 +1,33 @@
+{
+  "user_id": "554b2ec7d25b483e1debb3f6", 
+  "cur": "CNY", 
+  "is_test": 0, 
+  "device": {
+    "device_id_enc": 2, 
+    "network_id": 70120, 
+    "brand": "Ledner", 
+    "resolution_w": 8358, 
+    "os_version": "4.2", 
+    "resolution_h": 7344, 
+    "device_type": 5, 
+    "model": "Vicy", 
+    "os": "IOS", 
+    "delected_language": "ru_HU", 
+    "device_id": "2e3ddba791b930bd9b56792f7e766094"
+  }, 
+  "adunit": {
+    "cid": "7222", 
+    "type": 1, 
+    "param": {
+      "count": 1
+    }, 
+    "floor": 1.5
+  }, 
+  "geo": {
+    "latitude": 81.09709549694168, 
+    "country": "Cape Verde", 
+    "longtitude": 146.98216115637265, 
+    "city": "Binsshire"
+  }, 
+  "sdk": "bangbang"
+}

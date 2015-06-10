@@ -1,0 +1,27 @@
+{
+  "user_id": "554b43ffd25b484741f0ff58",
+  "cur": "CNY",
+  "is_test": 0,
+  "device": {
+    "device_id_enc": 1,
+    "network_id": 70123,
+    "brand": "Bednar",
+    "resolution_w": 460,
+    "os_version": "4.2",
+    "resolution_h": 6719,
+    "device_type": 2,
+    "model": "Qiana",
+    "os": "ANDROID",
+    "delected_language": "el_HN",
+    "device_id": "daf538ef485a3fe0cf01e86de4e90466"
+  },
+  "adunit": {
+  },
+  "geo": {
+    "latitude": 27.520787874076884,
+    "country": "Portugal",
+    "longtitude": 8.67829387203874,
+    "city": "East Fitzhughmouth"
+  },
+  "sdk": "bangbang"
+}

@@ -1,0 +1,32 @@
+{
+  "user_id": "554b4e4bd25b484e836ef1ce", 
+  "cur": "CNY", 
+  "is_test": 0, 
+  "device": {
+    "device_id_enc": 1, 
+    "network_id": 70123, 
+    "brand": "Olson", 
+    "resolution_w": 4942,
+    "resolution_h": 5782, 
+    "device_type": 5, 
+    "model": "Oma", 
+    "os": "ANDROID", 
+    "delected_language": "el_VN", 
+    "device_id": "be87793a8967b90165159245e0a29708"
+  }, 
+  "adunit": {
+    "cid": "1833", 
+    "type": 1, 
+    "param": {
+      "count": 2
+    }, 
+    "floor": 2.0
+  }, 
+  "geo": {
+    "latitude": 83.02028229694125, 
+    "country": "Togo", 
+    "longtitude": 123.85748800459942, 
+    "city": "New Corene"
+  }, 
+  "sdk": "bangbang"
+}

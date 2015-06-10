@@ -1,0 +1,33 @@
+{
+  "user_id": "554c28a7d25b481566699389", 
+  "cur": "CNY", 
+  "is_test": 0, 
+  "device": {
+    "device_id_enc": 1, 
+    "network_id": 70121, 
+    "brand": "Weissnat", 
+    "resolution_w": 5108, 
+    "os_version": "4.1.1", 
+    "resolution_h": 5649, 
+    "device_type": 1, 
+    "model": "Edmund", 
+    "os": "IOS", 
+    "delected_language": "cn_CR", 
+    "device_id": "a3476eecad94096b8a55a3c96fab56c2"
+  }, 
+  "adunit": {
+    "cid": "535", 
+    "type": 1, 
+    "param": {
+      "count": 3
+    }, 
+    "floor": "1.2"
+  }, 
+  "geo": {
+    "latitude": 46.36531734317852, 
+    "country": "Saint Lucia", 
+    "longtitude": 133.43107938395406, 
+    "city": "Lake Soniamouth"
+  }, 
+  "sdk": "bangbang"
+}

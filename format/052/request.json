@@ -1,0 +1,32 @@
+{
+  "user_id": "554c2325d25b4811d5f35cb0", 
+  "cur": "CNY", 
+  "is_test": 1, 
+  "device": {
+    "device_id_enc": 1, 
+    "network_id": 70123, 
+    "brand": "Cronin", 
+    "resolution_w": 8256, 
+    "os_version": "4.1.1",
+    "device_type": 4, 
+    "model": "Eusebio", 
+    "os": "IOS", 
+    "delected_language": "it_IQ", 
+    "device_id": "0f5405a5b2424084d2ccb680bf3b1289"
+  }, 
+  "adunit": {
+    "cid": "5341", 
+    "type": 1, 
+    "param": {
+      "count": 1
+    }, 
+    "floor": 1.3
+  }, 
+  "geo": {
+    "latitude": 86.91096758231855, 
+    "country": "El Salvador", 
+    "longtitude": 127.37286454199759, 
+    "city": "Joeyborough"
+  }, 
+  "sdk": "bangbang"
+}

@@ -1,0 +1,33 @@
+{
+  "user_id": "554ad3afd25b481664f57abb",
+  "cur": "CNY",
+  "is_test": 1,
+  "device": {
+    "device_id_enc": 1,
+    "network_id": 0,
+    "brand": "Walker",
+    "resolution_w": 4807,
+    "os_version": "5.0",
+    "resolution_h": 4566,
+    "device_type": 5,
+    "model": "Korbin",
+    "os": "ANDROID",
+    "delected_language": "de_PE",
+    "device_id": "3076c38870684717943907c519db0220"
+  },
+  "adunit": {
+    "cid": "9774",
+    "type": 1,
+    "param": {
+      "count": 2
+    },
+    "floor": 1.6
+  },
+  "geo": {
+    "latitude": 79.06307057370805,
+    "country": "Sao Tome and Principe",
+    "longtitude": 129.67985238537193,
+    "city": "North Santana"
+  },
+  "sdk": "bangbang"
+}

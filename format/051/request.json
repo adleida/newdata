@@ -1,0 +1,32 @@
+{
+  "user_id": "554c22d1d25b481165e8e48d", 
+  "cur": "CNY", 
+  "is_test": 1, 
+  "device": {
+    "device_id_enc": 2, 
+    "network_id": 70120, 
+    "brand": "Haley",
+    "os_version": "4.2.3", 
+    "resolution_h": 5468, 
+    "device_type": 5, 
+    "model": "Simeon", 
+    "os": "IOS", 
+    "delected_language": "it_RS", 
+    "device_id": "e778cf0be69a7bc26105981a5522c364"
+  }, 
+  "adunit": {
+    "cid": "4991", 
+    "type": 1, 
+    "param": {
+      "count": 1
+    }, 
+    "floor": 1.7
+  }, 
+  "geo": {
+    "latitude": 78.01691400330033, 
+    "country": "Somalia", 
+    "longtitude": 165.7633285977968, 
+    "city": "East Prenticemouth"
+  }, 
+  "sdk": "bangbang"
+}

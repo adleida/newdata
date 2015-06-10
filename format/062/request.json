@@ -1,0 +1,33 @@
+{
+  "user_id": "554c3b3fd25b481e7ba44450", 
+  "cur": "CNY", 
+  "is_test": 1, 
+  "device": {
+    "device_id_enc": 2, 
+    "network_id": 70121, 
+    "brand": "Bahringer", 
+    "resolution_w": 7320, 
+    "os_version": 4.2,
+    "resolution_h": 1095, 
+    "device_type": 5, 
+    "model": "Denita", 
+    "os": "ANDROID", 
+    "delected_language": "es_LI", 
+    "device_id": "66920a0b41c817bfd8624f2b56d36dac"
+  }, 
+  "adunit": {
+    "cid": "5517", 
+    "type": 1, 
+    "param": {
+      "count": 1
+    }, 
+    "floor": 2.3
+  }, 
+  "geo": {
+    "latitude": 62.495171498823716, 
+    "country": "Thailand", 
+    "longtitude": 37.46530851054449, 
+    "city": "Gleichnerview"
+  }, 
+  "sdk": "bangbang"
+}

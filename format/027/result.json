@@ -1,0 +1,7 @@
+{
+    "is_test":0,
+    "adm":[],
+    "error":{
+        "detail": "json syntax error('resolution_w' is a required property)"
+    }
+}

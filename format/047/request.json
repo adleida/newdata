@@ -1,0 +1,30 @@
+{
+  "user_id": "554b4d70d25b484dbc02b97f", 
+  "cur": "CNY", 
+  "is_test": 0, 
+  "device": {
+    "device_id_enc": 2, 
+    "network_id": 70123, 
+    "brand": "Pfeffer", 
+    "resolution_w": 8943, 
+    "os_version": "4.1.1", 
+    "resolution_h": 7039, 
+    "device_type": 5, 
+    "model": "Aline", 
+    "os": "ANDROID", 
+    "delected_language": "ru_KR", 
+    "device_id": "b61ab005e4ea8006b5c4e678b407159e"
+  }, 
+  "adunit": {
+    "cid": "9494", 
+    "type": 1,
+    "floor": 1.2
+  }, 
+  "geo": {
+    "latitude": 67.22124914914255, 
+    "country": "Burkina Faso", 
+    "longtitude": 67.55246160667242, 
+    "city": "Hakimburgh"
+  }, 
+  "sdk": "bangbang"
+}

@@ -1,0 +1,33 @@
+{
+  "user_id": "554c251dd25b4813686ac084", 
+  "cur": "CNY", 
+  "is_test": 1, 
+  "device": {
+    "device_id_enc": 1, 
+    "network_id": 70123, 
+    "brand": "Schowalter", 
+    "resolution_w": 7539, 
+    "os_version": "4.2", 
+    "resolution_h": 5613, 
+    "device_type": 4, 
+    "model": "Stacie", 
+    "os": "IOS", 
+    "delected_language": "it_AU", 
+    "device_id": "6caf8bd868e3cd4fb549a478c77df54f"
+  }, 
+  "adunit": {
+    "cid": "8563", 
+    "type": 1.3,
+    "param": {
+      "count": 1
+    }, 
+    "floor": 1.3
+  }, 
+  "geo": {
+    "latitude": 76.75137872889894, 
+    "country": "Vietnam", 
+    "longtitude": 46.17552499930072, 
+    "city": "Osinskimouth"
+  }, 
+  "sdk": "bangbang"
+}
